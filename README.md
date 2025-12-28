@@ -1,5 +1,7 @@
 # Remote Work Health Impact Survey 2025
 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/358e2b30-23f0-4929-bff3-297e635d2f85" />
+
 **Post-Pandemic Workforce Health Analysis**
 
 ## 📌 Project Overview
