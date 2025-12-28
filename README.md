@@ -92,5 +92,4 @@ The dataset contains anonymized survey responses from employees worldwide and is
 │   └── charts_and_plots/
 ├── README.md
 ```
-Data Analyst/ Open to work and collaborations
-I'm Passionate about transforming data into actionable insights.
+Data enthusiast passionate about transforming data into actionable insights. Open to work and collaboration. Lets connect and drive data-driven decisons. 
