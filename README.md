@@ -94,4 +94,4 @@ The dataset contains anonymized survey responses from employees worldwide and is
 │   └── charts_and_plots/
 ├── README.md
 ```
-Data enthusiast passionate about transforming data into actionable insights. Open to work and collaboration. Lets connect and drive data-driven decisons. 
+Data enthusiast passionate about transforming data into actionable insights. Open to work and collaboration. Let's connect on Linkedin via (https://www.linkedin.com/in/temitope-ololade-5823aa398?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or reach me via Email: (ololadetemitope221@gmail.com) and drive data-driven decisons. 
