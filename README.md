@@ -69,7 +69,6 @@ The dataset contains anonymized survey responses from employees worldwide and is
 * Correlation Analysis
 * Data Visualization
 
-*(Tools such as Python, Pandas, NumPy, Matplotlib/Seaborn, or Excel can be listed here depending on what you used.)*
 
 ---
 
@@ -93,3 +92,5 @@ The dataset contains anonymized survey responses from employees worldwide and is
 │   └── charts_and_plots/
 ├── README.md
 ```
+Data Analyst/ Open to work and collaborations
+I'm Passionate about transforming data into actionable insights.
